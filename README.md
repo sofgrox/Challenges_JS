@@ -12,7 +12,7 @@
 
 # Challenge 6: Crea un programa que multiplique cada elemento de un array por 2 y devuelva un nuevo array con los resultados usando for normal. Array de ejemplo: [3, 7, 2, 8]
 
-# Challenge 7: Crea un programa que encuentre la suma de los elementos pares en un array usando forEach. Array de ejemplo: [1, 4, 7, 3, 10, 12]
+# Challenge 7: Crea un programa que encuentre la suma de los elementos pares (los impares no los suma) en un array usando forEach. Array de ejemplo: [1, 4, 7, 3, 10, 12] -- recuerden que para saber como e sun numero inpar pueden usar (numero % 2 === 0)
 
 # Challenge 8: Crea un programa que encuentre el primer número mayor que 50 en un array de números usando un bucle while. Array de ejemplo: [30, 45, 60, 72, 48, 10]
 
